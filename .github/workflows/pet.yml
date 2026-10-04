@@ -7,6 +7,10 @@ on:
 permissions:
   contents: write
  
+concurrency:
+  group: profile-commits   # shared with bonsai.yml so the two never push at once
+  cancel-in-progress: false
+ 
 jobs:
   pet:
     runs-on: ubuntu-latest
