@@ -1,6 +1,8 @@
 # Hi, I'm Maria 👋
  
 I'm a Software Engineering student at **McMaster University** (Class of 2028). I'm into product engineering, backend and infra, and applied ML and AI.
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="dist/pet.svg"> <source media="(prefers-color-scheme: light)" srcset="dist/pet-light.svg"> <img alt="my github pet" src="dist/pet.svg" width="100%"> </picture>
  
 ## What I'm up to
  
@@ -60,6 +62,8 @@ I'm a Software Engineering student at **McMaster University** (Class of 2028). I
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+<p align="center"> <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" /> </p>
  
 ## Let's connect
  
