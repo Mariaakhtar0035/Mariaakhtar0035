@@ -15,11 +15,11 @@ I'm a Software Engineering student at **McMaster University** (Class of 2028). I
 ## What I'm up to
  
 - 🏆 Building at hackathons
-- 🌱 Working with backend systems and infrastructure
 - 🤖 Experimenting with agentic AI
-- 📋 Exploring product management
+- 🌱 Exploring product management
 - 🎹 Teaching myself piano
 - 🎾 Taking up tennis
+
 ## Experience
  
 - 🛍️ **Shopify**: Incoming Software Engineer Intern *(Jan 2027 – Apr 2027)*
