@@ -1,11 +1,3 @@
-```text
-    e   e                    ,e,               e Y8b     888    888       d8
-   d8b d8b     ,"Y88b 888,8,  "   ,"Y88b      d8b Y8b    888 ee 888 ee   d88    ,"Y88b 888,8,
-  e Y8b Y8b   "8" 888 888 "  888 "8" 888     d888b Y8b   888 P  888 88b d88888 "8" 888 888 "
- d8b Y8b Y8b  ,ee 888 888    888 ,ee 888    d888888888b  888 b  888 888  888   ,ee 888 888
-d888b Y8b Y8b "88 888 888    888 "88 888   d8888888b Y8b 888 8b 888 888  888   "88 888 888
-```
-
 # Hi, I'm Maria 👋
  
 I'm a Software Engineering student at **McMaster University** (Class of 2028). I'm into product engineering, backend and infra, and applied ML and AI.
