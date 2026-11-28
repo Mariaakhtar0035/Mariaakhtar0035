@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/intro-dark.gif" alt="maria akhtar" width="100%" /></p>
+
 # Hi, I'm Maria 👋
  
 I'm a Software Engineering student at **McMaster University** (Class of 2028). I'm into product engineering, backend and infra, and applied ML and AI.
