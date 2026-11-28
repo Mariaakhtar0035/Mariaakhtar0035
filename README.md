@@ -9,8 +9,7 @@ I'm a Software Engineering student at **McMaster University** (Class of 2028). I
 - 💼 Interning at PointClickCare
 - 🩸 Developing anemia screening models with RBC Borealis
 - 🏆 Building at hackathons (Most recently Hack the North 2026)
-- 🎹 Teaching myself piano
-- 🎾 Taking up tennis
+- 🎹 Learning piano
 
 ## Experience
  
