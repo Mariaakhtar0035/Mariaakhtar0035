@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/intro-dark.gif" alt="maria akhtar" width="100%" /></p>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.gif"> <source media="(prefers-color-scheme: light)" srcset="assets/intro-light.gif"> <img alt="maria akhtar" src="assets/intro-dark.gif" width="100%"> </picture>
 
 # Hi, I'm Maria 👋
  
