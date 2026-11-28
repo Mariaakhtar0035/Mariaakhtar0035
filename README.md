@@ -16,7 +16,7 @@ I'm a Software Engineering student at **McMaster University** (Class of 2028). I
 ## Experience
  
 - 🛍️ **Shopify**: Incoming Software Engineer Intern *(Jan 2027 – Apr 2027)*
-- 🏥 **PointClickCare**: AI Automation Engineer Intern *(Sep 2026 – Present)*
+- 🏥 **PointClickCare**: AI Automation Developer Intern *(Sep 2026 – Present)*
 - 🏦 **Royal Bank of Canada**: Software Developer Intern *(Jan 2026 – Aug 2026)*
 - 📅 **QReserve**: Software Developer Intern *(May 2025 – Aug 2025)*
 - 🎓 **McMaster University**: Teaching Assistant *(Sep 2025 – Apr 2026)*
